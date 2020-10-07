@@ -4,6 +4,6 @@ public class EU3_Practice {
 
     public static void main(String[] args) {
 
-        System.out.println("HEllo i came now");
+        System.out.println("Hello i came now");
     }
 }
