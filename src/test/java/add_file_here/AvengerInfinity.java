@@ -8,5 +8,7 @@ public class AvengerInfinity {
         System.out.println("London");
         System.out.println("Stockholm");
         System.out.println("Istanbul");
+        System.out.println("Berlin");
+        System.out.println("Jakarta");
     }
 }
